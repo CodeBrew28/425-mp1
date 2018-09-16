@@ -1,0 +1,15 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aria <arshiam2828@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.26",
+    "yargs": "^12.0.2"
+  }
+}
